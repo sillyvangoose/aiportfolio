@@ -1,9 +1,7 @@
 # aiportfolio
 ## organisation and errors
 This is the compilation of all of the labs completed for AI For The Arts and Humanities A. Each lab is organised into its own folder, and images and audio found in those labs have been sorted into their own separate image and audio folder outside of those lab folders. I personally found it more useful to have all of the images in one place instead of having them inside the lab folders themselves. The images in the image folder are separated into which lab they belong to, but the audio is not as it is only present in the Weeks 1-3 lab.
-I had to clear the output for the Weeks 1-3 lab so the file size would be smaller, I'm not sure if that changes how the file is for the viewer.
 There were some error messages in the Machine Learning Lab, and I did mess around with the code a little bit, but eventually reverted it back to the original because I could not get it to work. It did not effect the output of the code though, and I was able to finish the lab, which was nice.
-Unfortunately, I was unable to export the Machine Learning Lab to an .html file because the Student Remote Desktop didn't allow me, so I had to download all of the other notebooks as .html on my computer's local version of Anaconda and Jupyter notebook. I was unable to download Tensorflow Playground on my laptop, so I wasn't able to download the Machine Learning Lab as .html on my laptop. The Python file is still present.
 ## collaboration
 I worked at a different pace than my peers for the second part of the labs, but I did consult with Niamh for the first part of the labs, and can credit any bits in the Machine Learning and Weeks 1-3 labs that mention any discussion with a group to her. This is the accreditation section dedicated to her.
 For the text generation lab, I did investigate the RNN and author behind the text generator we were given and can accredit some information to that creator, Andrej Karpathy.
